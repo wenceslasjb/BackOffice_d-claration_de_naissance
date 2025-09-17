@@ -62,7 +62,7 @@ const Login: React.FC = () => {
                 </svg>
               </div>
               <h1 className="text-4xl font-bold bg-gradient-to-r from-cyan-400 via-teal-400 to-cyan-300 bg-clip-text text-transparent">
-                BackOffice
+                Declaration de naissance
               </h1>
               <p className="text-slate-400 font-medium">
                 Connexion à votre espace administrateur

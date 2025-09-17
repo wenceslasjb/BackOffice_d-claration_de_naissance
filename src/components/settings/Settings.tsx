@@ -27,7 +27,7 @@ interface SettingsState {
 const Settings: React.FC = () => {
   const [settings, setSettings] = useState<SettingsState>({
     general: {
-      appName: 'BackOffice Déclaration',
+      appName: 'Déclaration de naissance',
       language: 'fr',
       timezone: 'Indian/Antananarivo'
     },

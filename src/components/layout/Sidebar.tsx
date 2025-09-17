@@ -100,7 +100,7 @@ const Sidebar: React.FC<SidebarProps> = ({ isOpen, onToggle }) => {
               <DocumentTextIcon className="w-5 h-5 text-white" />
             </div>
             <h1 className="text-xl font-extrabold bg-gradient-to-r from-cyan-400 via-teal-400 to-cyan-300 bg-clip-text text-transparent">
-              BackOffice
+              Declaration de naissance
             </h1>
           </div>
           <button
